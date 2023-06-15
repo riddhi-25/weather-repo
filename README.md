@@ -1,1 +1,1 @@
-this is abouth weather app
+this is abou the weather app!
